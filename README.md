@@ -5,16 +5,16 @@
 
 📅 Tópicos de Estudo
 ✅ Módulo 1: Fundamentos de Segurança
-🔹 Conceitos de Cybersecurity
-🔹 Modelos de Ameaças e Defesa
-🔹 Princípios de Pentest
-🔹 Regulamentações e Compliance (LGPD, GDPR, ISO 27001)
+✅ Conceitos de Cybersecurity
+✅ Modelos de Ameaças e Defesa
+✅ Princípios de Pentest
+✅ Regulamentações e Compliance (LGPD, GDPR, ISO 27001)
 
 ✅ Módulo 2: Redes e Protocolos
-🔹 TCP/IP, UDP, ICMP e modelagem OSI
-🔹 Protocolos de autenticação e criptografia
-🔹 Firewalls, IDS/IPS e VPNs
-🔹 Ataques a redes e técnicas de defesa
+✅ TCP/IP, UDP, ICMP e modelagem OSI
+✅ Protocolos de autenticação e criptografia
+✅ Firewalls, IDS/IPS e VPNs
+✅ Ataques a redes e técnicas de defesa
 
 ✅ Módulo 3: OSINT e Coleta de Informações
 🔹 Técnicas de OSINT
