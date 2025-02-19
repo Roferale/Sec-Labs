@@ -1,81 +1,85 @@
-🔥 RoferHack | Cybersecurity & Pentest 🔥
+🔥 Plano de Estudos - Pentest Professional 🔥
+📌 Objetivo: Aprender e aprimorar habilidades em Pentest e Cybersecurity, seguindo um plano estruturado.
+📌 Nível: Intermediário - Profissional
+📌 Metodologia: Teoria + Prática + Labs
 
-Welcome to RoferHack, a repository dedicated to cybersecurity, penetration testing, and ethical hacking. This space is designed for learning, experimentation, and sharing knowledge in offensive security.
+📅 Tópicos de Estudo
+✅ Módulo 1: Fundamentos de Segurança
+🔹 Conceitos de Cybersecurity
+🔹 Modelos de Ameaças e Defesa
+🔹 Princípios de Pentest
+🔹 Regulamentações e Compliance (LGPD, GDPR, ISO 27001)
 
-📂 Repository Structure
+✅ Módulo 2: Redes e Protocolos
+🔹 TCP/IP, UDP, ICMP e modelagem OSI
+🔹 Protocolos de autenticação e criptografia
+🔹 Firewalls, IDS/IPS e VPNs
+🔹 Ataques a redes e técnicas de defesa
 
-This repository is organized as follows:
+✅ Módulo 3: OSINT e Coleta de Informações
+🔹 Técnicas de OSINT
+🔹 Ferramentas: Shodan, Maltego, Recon-ng
+🔹 Enumeração e footprinting
 
-Sec-Labs/
-│── 📖 Notes/                 # Documentation and theoretical studies
-│   ├── OSINT.md              # Information gathering techniques
-│   ├── Enumeration.md        # Network and service enumeration
-│   ├── Exploitation.md       # Vulnerability exploitation
-│   ├── Post-Exploitation.md  # Privilege escalation & persistence
-│   ├── Reports.md            # Example pentest reports
-│
-│── 🔧 Tools/                # Custom scripts and automation
-│   ├── enumeration.sh        # Automated enumeration script
-│   ├── exploit.py            # Python exploit examples
-│   ├── post-exploitation.sh  # Persistence and backdoors
-│
-│── 📂 Labs/                  # Practical challenges and exercises
-│   ├── TryHackMe/
-│   │   ├── room1.md
-│   │   ├── room2.md
-│   │
-│   ├── HackTheBox/
-│   │   ├── machine1.md
-│   │   ├── machine2.md
-│
-│── 📊 Reports/               # Professional pentest report templates
-│   ├── Pentest_Report_Template.pdf
-│   ├── Sample_Pentest_Report.md
-│
-│── 📚 Cheatsheets/           # Quick references and commands
-│   ├── Enumeration.md
-│   ├── Web_Exploits.md
-│   ├── Windows_PrivEsc.md
-│   ├── Linux_PrivEsc.md
-│
-│── 📜 README.md              # Repository description
-│── 📜 .gitignore              # Files to ignore in commits
+✅ Módulo 4: Enumeração e Exploração de Serviços
+🔹 Port Scanning com Nmap
+🔹 Ataques a protocolos SMB, FTP, SSH
+🔹 Exploração de vulnerabilidades conhecidas
+🔹 Técnicas de Exploitation
 
-🛠 Tech Stack
+✅ Módulo 5: Web Application Security
+🔹 OWASP Top 10
+🔹 SQL Injection, XSS, CSRF, LFI/RFI
+🔹 Ferramentas: Burp Suite, ZAP, sqlmap
 
-Pentest & Offensive Security
+✅ Módulo 6: Elevação de Privilégio e Pós-Exploração
+🔹 Windows e Linux Privilege Escalation
+🔹 Dumping de credenciais (Mimikatz, Hashdump)
+🔹 Persistência e Movimentação Lateral
 
-Linux | Windows | Cloud Security
+✅ Módulo 7: Red Team & Evasão de Defesa
+🔹 Técnicas de Bypass de AV/EDR
+🔹 Malware Development
+🔹 Powershell Empire, Cobalt Strike
 
-OSINT | Exploitation | Reverse Engineering
+✅ Módulo 8: Relatórios e Comunicação
+🔹 Como documentar vulnerabilidades
+🔹 Modelos de relatório profissional
+🔹 Comunicação com clientes e stakeholders
 
-Bug Bounty & CTF Challenges
+🛠 Ferramentas Essenciais
+📌 Hacking e Pentest: Metasploit, Burp Suite, Nmap, Nikto, Hydra
+📌 OSINT e Recon: Shodan, Maltego, theHarvester, Recon-ng
+📌 Exploits e Pós-exploração: Mimikatz, BloodHound, PowerShell Empire
+📌 Análise de Vulnerabilidades: Nessus, OpenVAS
 
+📊 Progresso e Acompanhamento
+✅ Concluir cada módulo com anotações 📖
+✅ Realizar práticas e desafios CTF 🕵️‍♂️
+✅ Criar scripts e ferramentas de automação 🔧
+✅ Resolver labs no TryHackMe e HackTheBox 🏴
 
-🚀 Goals
+🚀 Recursos Recomendados
+📖 Livros:
 
-Share pentesting knowledge and best practices.
+The Web Application Hacker’s Handbook
+Red Team Field Manual (RTFM)
+The Art of Exploitation
 
-Provide custom scripts for automation.
+🎥 Cursos:
 
-Document real-world cybersecurity techniques.
+Pentester Academy
+TCM Security - PNPT
+Offensive Security - OSCP
+🔗 Plataformas de Prática:
 
-Create a repository of learning resources.
+TryHackMe
+HackTheBox
+PortSwigger Academy
 
+📌 Contato & Projetos
+📂 Repositório GitHub: github.com/roferhack
+🐦 Linkedin: linkedin.com/in/roferale
+📧 Email: roferale66@gmail.com
 
-📌 Certifications (In Progress)
-
-🏴‍☠️ OSCP | CEH | PNPT
-
-
-📡 Connect with Me
-
-GitHub: github.com/RoferHack
-
-TryHackMe: -
-
-LinkedIn: linkedin.com/in/roferale
-
-
-🚀 "Hack the Planet!" 🔥
-
+💡 "The quieter you become, the more you are able to hear." 🎯
