@@ -8,35 +8,35 @@ This repository is organized as follows:
 
 Sec-Labs/
 │── 📖 Notes/                 # Documentation and theoretical studies
-│      ├── OSINT.md          # Information gathering techniques
-│      ├── Enumeration.md    # Network and service enumeration
-│      ├── Exploitation.md   # Vulnerability exploitation
-│      ├── Post-Exploitation.md # Privilege escalation & persistence
-│      ├── Reports.md        # Example pentest reports
+│   ├── OSINT.md              # Information gathering techniques
+│   ├── Enumeration.md        # Network and service enumeration
+│   ├── Exploitation.md       # Vulnerability exploitation
+│   ├── Post-Exploitation.md  # Privilege escalation & persistence
+│   ├── Reports.md            # Example pentest reports
 │
 │── 🔧 Tools/                # Custom scripts and automation
-│      ├── enumeration.sh    # Automated enumeration script
-│      ├── exploit.py        # Python exploit examples
-│      ├── post-exploitation.sh # Persistence and backdoors
+│   ├── enumeration.sh        # Automated enumeration script
+│   ├── exploit.py            # Python exploit examples
+│   ├── post-exploitation.sh  # Persistence and backdoors
 │
 │── 📂 Labs/                  # Practical challenges and exercises
-│      ├── TryHackMe/
-│      │      ├── room1.md
-│      │      ├── room2.md
-│      │
-│      ├── HackTheBox/
-│      │      ├── machine1.md
-│      │      ├── machine2.md
+│   ├── TryHackMe/
+│   │   ├── room1.md
+│   │   ├── room2.md
+│   │
+│   ├── HackTheBox/
+│   │   ├── machine1.md
+│   │   ├── machine2.md
 │
 │── 📊 Reports/               # Professional pentest report templates
-│      ├── Pentest_Report_Template.pdf
-│      ├── Sample_Pentest_Report.md
+│   ├── Pentest_Report_Template.pdf
+│   ├── Sample_Pentest_Report.md
 │
 │── 📚 Cheatsheets/           # Quick references and commands
-│      ├── Enumeration.md
-│      ├── Web_Exploits.md
-│      ├── Windows_PrivEsc.md
-│      ├── Linux_PrivEsc.md
+│   ├── Enumeration.md
+│   ├── Web_Exploits.md
+│   ├── Windows_PrivEsc.md
+│   ├── Linux_PrivEsc.md
 │
 │── 📜 README.md              # Repository description
 │── 📜 .gitignore              # Files to ignore in commits
@@ -72,11 +72,8 @@ Create a repository of learning resources.
 
 GitHub: github.com/RoferHack
 
-TryHackMe: [your-tryhackme-profile]
-
-LinkedIn: [your-linkedin-profile]
+LinkedIn: LinkedIn.com/in/roferale
 
 
 🚀 "Hack the Planet!" 🔥
 
- 
