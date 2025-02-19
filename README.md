@@ -72,7 +72,9 @@ Create a repository of learning resources.
 
 GitHub: github.com/RoferHack
 
-LinkedIn: LinkedIn.com/in/roferale
+TryHackMe: -
+
+LinkedIn: linkedin.com/in/roferale
 
 
 🚀 "Hack the Planet!" 🔥
